@@ -82,7 +82,7 @@ Se você optar por clonar todo o repositório, basta extrai-lo dentro da pasta p
 ```
 git clone https://github.com/n1ckrc/Templates-Obsidian
 ```
-<p><a href="https://github.com/n1ckrc/Obsidian-Templates/archive/refs/heads/main.zip">Baixar Zipado</a></p>
+<p><a href="https://github.com/n1ckrc/Templates-Obsidian/archive/refs/heads/main.zip">Baixar Zipado</a></p>
 
 ![Desec](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/desec.png)
 
