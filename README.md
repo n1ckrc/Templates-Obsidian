@@ -80,7 +80,7 @@ Se você optar por clonar todo o repositório, basta extrai-lo dentro da pasta p
 <p><a href="https://github.com/n1ckrc/Obsidian-Templates/tree/main/Desec-Security">Desec Security</a></p>
 
 ```
-git clone https://github.com/n1ckrc/Obsidian-Templates
+git clone https://github.com/n1ckrc/Templates-Obsidian
 ```
 <p><a href="https://github.com/n1ckrc/Obsidian-Templates/archive/refs/heads/main.zip">Baixar Zipado</a></p>
 
