@@ -1,4 +1,4 @@
-![Banner](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/banner.png) 
+![Banner](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/banner.png) 
 
 O objetivo deste repositório é ajudar estudantes que buscam a DCPT e OSCP, na organização de suas notas utilizando como ferramenta o Obsidian.
 É importante salientar que o conteúdo dos treinamentos são protegidos por direitos autorais e NÃO DEVEM ser compartilhados em hipótese alguma. 
@@ -20,12 +20,12 @@ Muitas pessoas me perguntaram qual o theme que eu utilizei para personalizar as 
 
 **2.1** Clique em **configurações** (na engrenagem) -> **Aparência** -> **Gerir**
 
-![Aparencia](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/aparencia.png)
+![Aparencia](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/aparencia.png)
 
 
 **2.2** - Pesquise pelo tema **Obsidianite**:
 
-![Theme](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/theme.png)
+![Theme](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/theme.png)
 
 Instale o tema e aplique-o. Caso não goste de sua aparência, escolha algum que te agrade ou mantenha o padrão.
 
@@ -34,12 +34,12 @@ Instale o tema e aplique-o. Caso não goste de sua aparência, escolha algum que
 
 **Configurações** -> **Aparência** -> **Tema Base** -> **Modo Escuro**
 
-![Dark-Mode](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/modo-escuro.png)
+![Dark-Mode](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/modo-escuro.png)
 
 
 **2.4** - Desabilitando **Título Embutido**: 
 
-![Menu](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/titulo.png)
+![Menu](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/titulo.png)
 
 
 
@@ -54,7 +54,7 @@ O Obsidian já possui alguns plugins instalados por padrão e que são chamados 
 Para instalar clique em Configurações -> Plugins não Oficiais -> Procurar
 
 
-![Plugins](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/plugins.png)
+![Plugins](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/plugins.png)
 
 
 
@@ -66,7 +66,7 @@ Ao criar um novo cofre, você pode escolher um nome e também o seu destino.
 
 **PS**: Se você estiver utilizando Windows, o seu antivírus pode apagar as suas notas acidentalmnte devido ao seu conteúdo, o qual tontém links de executáveis, códigos de exploits e  que podem ser interpretados como maliciosos. Então recomendo que inclua todo o diretório do seu cofre na lista de excessão de seu antivírus, ou escolha como diretório principal alguma pasta que está em seu drive de núvem seja ele qual for.
 
-![Plugins](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/criando-cofre.png)
+![Plugins](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/criando-cofre.png)
 
 Se você optar por clonar todo o repositório, basta extrai-lo dentro da pasta principal do obsidian que já irá aparecer como um novo cofre criado.
 
@@ -77,7 +77,7 @@ Se você optar por clonar todo o repositório, basta extrai-lo dentro da pasta p
 
 #### Template Cursos Desec Security
 
-<p><a href="https://github.com/n1ckrc/Obsidian-Templates/tree/main/Desec-Security">Desec Security</a></p>
+<p><a href="https://github.com/n1ckrc/Templates-Obsidian/tree/main/Desec-Security">Desec Security</a></p>
 
 ```
 git clone https://github.com/n1ckrc/Templates-Obsidian
@@ -89,4 +89,4 @@ git clone https://github.com/n1ckrc/Templates-Obsidian
 
 #### Template Curso PEN-200
 
-![Offensiv](https://github.com/n1ckrc/Obsidian-Templates/blob/main/Anexos/offensive.png)
+![Offensiv](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/offensive.png)
