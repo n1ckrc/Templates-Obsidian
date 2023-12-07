@@ -60,11 +60,11 @@ Para instalar clique em Configurações -> Plugins não Oficiais -> Procurar
 
 ### 4. Criando o Valt ou Cofre
 
-Cofres **são as pastas principais do seu repositório de anotações**. Em cada cofre é possível criar arquivos markdown e pastas à vontade, além de adicionar imagens e outros arquivos, como pdfs. Na verdade, cada cofre nada mais é do que uma pasta que conterá tudo que for produzido ou adicionado a ele.
+Cofres **são as os diretórios principais do seu repositório de anotações**. Em cada cofre é possível criar arquivos markdown e pastas à vontade, além de adicionar imagens e outros arquivos, como pdfs. Na verdade, cada cofre nada mais é do que uma pasta que conterá tudo que for produzido ou adicionado a ele.
 
 Ao criar um novo cofre, você pode escolher um nome e também o seu destino.
 
-**PS**: Se você estiver utilizando Windows, o seu antivírus pode apagar as suas notas acidentalmnte devido ao seu conteúdo, o qual tontém links de executáveis, códigos de exploits e  que podem ser interpretados como maliciosos. Então recomendo que inclua todo o diretório do seu cofre na lista de excessão de seu antivírus, ou escolha como diretório principal alguma pasta que está em seu drive de núvem seja ele qual for.
+**PS**: Se você estiver utilizando Windows, o seu antivírus pode apagar as suas notas acidentalmnte devido ao seu conteúdo, o qual contém links de executáveis, códigos de exploits e  que podem ser interpretados como maliciosos. Então recomendo que inclua todo o diretório do seu cofre na lista de excessão de seu antivírus, ou escolha como diretório principal alguma pasta que está em seu drive de núvem seja ele qual for.
 
 ![Plugins](https://github.com/n1ckrc/Templates-Obsidian/blob/main/Anexos/criando-cofre.png)
 
